@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prabhav-DEV-1126/leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prabhav-DEV-1126/leetcode-journey/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prabhav-DEV-1126/leetcode-journey/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prabhav-DEV-1126/leetcode-journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
