@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Prabhav-DEV-1126/leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prabhav-DEV-1126/leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prabhav-DEV-1126/leetcode-journey/tree/master/0053-maximum-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/Prabhav-DEV-1126/leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
